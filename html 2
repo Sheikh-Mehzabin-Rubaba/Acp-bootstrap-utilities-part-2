@@ -1,0 +1,41 @@
+<html>
+<head>
+    <title>Bootstrap Example</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+    
+    <div class="container">
+        <div class="card" style="width: 20rem">
+            <img class="card-image-top" height="250px" src="Sunflower.jpg" alt="card-image-cap">
+            <div class="card-body">
+                <h5>Sunflower</h5>
+                <p class="card-text">A yellow flower</p>
+                <a href="https://en.wikipedia.org/wiki/Common_sunflower" class="btn btn-primary">Know More About It</a>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <ul class="pagination">
+    
+            <li class="page-item">
+                <a class="page-link" href="html">Previous</a>
+            </li>
+    
+            <li class="page-item">
+                <a class="page-link" href="html 2">2</a>
+            </li>
+            <li class="page-item">
+                <a class="page-link" href="html 3">Next</a>
+    
+        </ul>
+    </div>
+</bo   
+</html>
